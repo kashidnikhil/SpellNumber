@@ -1,0 +1,8 @@
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\bin\Debug\SpellNumber_Test.dll
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\bin\Debug\SpellNumber_Test.pdb
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\bin\Debug\SpellNumber.exe
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\bin\Debug\SpellNumber.pdb
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\obj\Debug\SpellNumber_Test.csprojResolveAssemblyReference.cache
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\obj\Debug\SpellNumber_Test.dll
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber_Test\obj\Debug\SpellNumber_Test.pdb

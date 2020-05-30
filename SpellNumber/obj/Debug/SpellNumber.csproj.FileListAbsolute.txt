@@ -1,0 +1,6 @@
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber\bin\Debug\SpellNumber.exe.config
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber\bin\Debug\SpellNumber.exe
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber\bin\Debug\SpellNumber.pdb
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber\obj\Debug\SpellNumber.csprojResolveAssemblyReference.cache
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber\obj\Debug\SpellNumber.exe
+E:\Development\MVC Class\Test\SpellNumber\SpellNumber\obj\Debug\SpellNumber.pdb
